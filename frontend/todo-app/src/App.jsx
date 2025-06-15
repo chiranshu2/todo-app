@@ -7,7 +7,7 @@ function App() {
   return (
     
       <div>
-      <CreateTodo/>
+      <CreateTodo></CreateTodo>
       </div>
     
   )
